@@ -2,18 +2,21 @@
 
 I'm a Frontend Developer with a passion for building user-friendly and responsive websites and web apps. I specialize in React.js, JavaScript, and modern UI libraries like Chakra UI and Tailwind CSS. I love collaborating, solving problems, and constantly learning new technologies.  
 
-- 🌍 I'm based in Nigeria  
+- 🌍 I'm based in Lagos, Nigeria  
 - 📫 You can reach me at [psaviour495@gmail.com](mailto:psaviour495@gmail.com)  
-- 🔭 I'm currently working on a school management system and SafeHive (health app)  
+- 🔭 I'm currently working on a <a href="https://one-by-one-chi.vercel.app">School Management System --- ONE BY ONE</a>
 - 🌱 I'm currently learning AI integrations and mobile development with React Native  
-- 🤝 I'm open to collaborating on frontend, health-tech, AI and real-time projects  
+- 🤝 I'm open to collaborating on web, mobile and AI projects 
 
 ---
 
 ### 💻 Skills
 
 <p align="left">
+  <div display="flex" flexDirection="column">
+    <p>JavaScript</p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
+  </div>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="40" height="40" alt="Next.js" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="Tailwind CSS" />
