@@ -31,6 +31,7 @@ I'm a Frontend Developer with a passion for building user-friendly and responsiv
 <p align="left">
   <a href="https://linkedin.com/in/saviourpromise" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" /></a>
   <a href="mailto:psaviour495@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:psaviour495@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg)" /></a>
 </p>
 
 ---
