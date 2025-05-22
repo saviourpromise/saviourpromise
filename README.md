@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ... or with any coder and developer
 - 📫 How to reach me ... psaviour495@gmail.com
 
+- https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg
+
 <!---
 saviourpromise/saviourpromise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
