@@ -39,6 +39,8 @@ I'm a Frontend Developer with a passion for building user-friendly and responsiv
 
 ![Promise's GitHub stats](https://github-readme-stats.vercel.app/api?username=saviourpromise&show_icons=true&theme=radical)
 
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saviourpromise&theme=radical" />
+
 ---
 
 <!---
