@@ -34,11 +34,9 @@ I'm a Software Developer with a passion for building user-friendly and responsiv
     <sub><b>React Native</b></sub>
   </td>
 <td align="center" width="80">
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" />
     <br />
-    <span><b>Vercel</b></span>
-  </a>
+    <sub><b>Vercel</b></sub>
 </td>
     <td align="center" width="80">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /><br/>
