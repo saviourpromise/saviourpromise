@@ -70,7 +70,7 @@ I'm a Frontend Developer with a passion for building user-friendly and responsiv
     </td>
 <td align="center" width="80">
   <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" width="40" height="40" alt="ShadCN UI" /><br/>
-  <sub><b>ShadCN UI</b></sub>
+  <sub><b>ShadCN</b></sub>
 </td>
   </tr>
 </table>
