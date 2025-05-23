@@ -31,7 +31,7 @@ I'm a Frontend Developer with a passion for building user-friendly and responsiv
     <sub><b>React Native</b></sub>
   </td>
   <td align="center" width="80">
-    <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" width="40" height="40" alt="Expo" /><br/>
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAOVBMVEVHcEwAABQAABQAABQAABQAABQAABMAABQAABMAABQAAACkpKaQkJPDw8T+/v5SUlfg4OF1dXkvLzZWMrGaAAAACnRSTlMAPJLF5PX/xAPaQKz+0wAAAKxJREFUeAF904UBhDAMAMBQd9t/2CeP1YNzdYEzDkIZF1VwJsmBAkqLaWh1ItpcAQ6xjAPIGgnINVJg9acx9ReDpg/WNT2COp8Pwdd5KzQxnBHNHBNimqLJ4R/ZzBDLxJInaBy2BtvkzIiY53l0aOxVG9ZsTY/YzqfNHWLGcmHBrC265w+mcw2iGjG8vgP/2vfKgYllMKBrlPtlsl1g26W5X9S4HWS/Heh/O/wA4LAUsuFVSoYAAAAASUVORK5CYII=" width="40" height="40" alt="Expo" /><br/>
     <sub><b>Expo</b></sub>
   </td>
     <td align="center" width="80">
