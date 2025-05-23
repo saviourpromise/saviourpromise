@@ -5,7 +5,7 @@ I'm a Software Developer with a passion for building user-friendly and responsiv
 
 - 🌍 I'm based in Lagos, Nigeria  
 - 📫 You can reach me at [psaviour495@gmail.com](mailto:psaviour495@gmail.com)  
-- 🔭 I'm currently working on a <a href="https://one-by-one-chi.vercel.app">School Management System --- ONE BY ONE</a>
+- 🔭 I'm currently working on a School Management System <a href="https://one-by-one-chi.vercel.app">ONE BY ONE</a>
 - 🌱 I'm currently learning AI integrations and mobile development with React Native  
 - 🤝 I'm open to collaborating on web, mobile and AI projects
 
