@@ -26,6 +26,14 @@ I'm a Frontend Developer with a passion for building user-friendly and responsiv
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="40" height="40" alt="Vite" /><br/>
       <sub><b>Vite</b></sub>
     </td>
+     <td align="center" width="80">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React Native" /><br/>
+    <sub><b>React Native</b></sub>
+  </td>
+  <td align="center" width="80">
+    <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" width="40" height="40" alt="Expo" /><br/>
+    <sub><b>Expo</b></sub>
+  </td>
     <td align="center" width="80">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /><br/>
       <sub><b>React</b></sub>
@@ -37,10 +45,6 @@ I'm a Frontend Developer with a passion for building user-friendly and responsiv
     <td align="center" width="80">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="Tailwind" /><br/>
       <sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="40" height="40" alt="Chakra UI" /><br/>
-      <sub><b>Chakra UI</b></sub>
     </td>
   </tr>
   <tr>
@@ -70,8 +74,12 @@ I'm a Frontend Developer with a passion for building user-friendly and responsiv
     </td>
 <td align="center" width="80">
   <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" width="40" height="40" alt="ShadCN UI" /><br/>
-  <sub><b>ShadCN</b></sub>
+  <sub><b>ShadCN UI</b></sub>
 </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="40" height="40" alt="Chakra UI" /><br/>
+      <sub><b>Chakra UI</b></sub>
+    </td>
   </tr>
 </table>
 
