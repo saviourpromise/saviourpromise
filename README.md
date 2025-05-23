@@ -9,7 +9,7 @@ I'm a Frontend Developer with a passion for building user-friendly and responsiv
 - 🌱 I'm currently learning AI integrations and mobile development with React Native  
 - 🤝 I'm open to collaborating on web, mobile and AI projects
 
-![GitHub followers](https://img.shields.io/github/followers/saviourpromise?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/saviourpromise?label=Follow&style=for-the-badge)
 
 ---
 
