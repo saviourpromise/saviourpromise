@@ -33,10 +33,10 @@ I'm a Software Developer with a passion for building user-friendly and responsiv
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React Native" /><br/>
     <sub><b>React Native</b></sub>
   </td>
-<td align="center" width="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Expo_Icon.png" width="40" height="40" alt="Expo" /><br/>
-  <sub><b>Expo</b></sub>
-</td>
+     <td align="center" width="80">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vercel-colored.svg" width="40" height="40" alt="Vercel" /><br/>
+    <sub><b>Vercel</b></sub>
+  </td>
     <td align="center" width="80">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /><br/>
       <sub><b>React</b></sub>
