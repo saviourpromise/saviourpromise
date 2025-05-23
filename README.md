@@ -12,20 +12,52 @@ I'm a Frontend Developer with a passion for building user-friendly and responsiv
 
 ### 💻 Skills
 
-<p align="left">
-  <div display="flex" flexDirection="column">
-    <p>JavaScript</p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
-  </div>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="40" height="40" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="40" height="40" alt="Chakra UI" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40" alt="Firebase" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="40" height="40" alt="Next.js" /><br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="Tailwind" /><br/>
+      <sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="40" height="40" alt="Chakra UI" /><br/>
+      <sub><b>Chakra UI</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40" alt="Firebase" /><br/>
+      <sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
