@@ -22,6 +22,10 @@ I'm a Frontend Developer with a passion for building user-friendly and responsiv
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" /><br/>
       <sub><b>TypeScript</b></sub>
     </td>
+        <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="40" height="40" alt="Vite" /><br/>
+      <sub><b>Vite</b></sub>
+    </td>
     <td align="center" width="80">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /><br/>
       <sub><b>React</b></sub>
@@ -59,6 +63,14 @@ I'm a Frontend Developer with a passion for building user-friendly and responsiv
     <td align="center" width="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /><br/>
       <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="40" height="40" alt="Redux" /><br/>
+      <sub><b>Redux</b></sub>
+    </td>
+        <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadecn-colored.svg" width="40" height="40" alt="ShadeCn" /><br/>
+      <sub><b>ShadeCn</b></sub>
     </td>
   </tr>
 </table>
