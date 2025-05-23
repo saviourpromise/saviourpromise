@@ -68,10 +68,10 @@ I'm a Frontend Developer with a passion for building user-friendly and responsiv
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="40" height="40" alt="Redux" /><br/>
       <sub><b>Redux</b></sub>
     </td>
-        <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadecn-colored.svg" width="40" height="40" alt="ShadeCn" /><br/>
-      <sub><b>ShadeCn</b></sub>
-    </td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" width="40" height="40" alt="ShadCN UI" /><br/>
+  <sub><b>ShadCN UI</b></sub>
+</td>
   </tr>
 </table>
 
