@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, My name is Promise Saviour</h1>
+<h1 align="left">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" />, My name is Promise Saviour</h1>
+
 
 I'm a Frontend Developer with a passion for building user-friendly and responsive websites and web apps. I specialize in NextJs, React.js, JavaScript, Typescript and modern UI libraries like Chakra UI and Tailwind CSS. I love collaborating, solving problems, and constantly learning new technologies.  
 
