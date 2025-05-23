@@ -19,6 +19,10 @@ I'm a Frontend Developer with a passion for building user-friendly and responsiv
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" /><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="80">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /><br/>
       <sub><b>React</b></sub>
     </td>
